@@ -1,4 +1,4 @@
-# Ray-tracing - Computer Graphics
+# Ray-tracing acceleration with BVH - Computer Graphics
 My solution to Games101 HW6
 
 # My main tasks
