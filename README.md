@@ -8,7 +8,7 @@ My solution to Games101 HW6
 
 # Result
 
-<img width="987" height="678" alt="Screenshot from 2025-07-14 23-45-14" src="https://github.com/user-attachments/assets/5fcf9fab-be6e-4a2c-ac38-354d3f294056" />
+<img width="600" height="412" alt="Screenshot from 2025-07-14 23-45-14" src="https://github.com/user-attachments/assets/5fcf9fab-be6e-4a2c-ac38-354d3f294056" />
 
 # Explanation
 Since checking intersections with all the triangles for each ray is inefficient. Scientists proposed different spatial partition methods to only check triangles that are potentially
