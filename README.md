@@ -32,4 +32,3 @@ then, go into ./build/ directory or create one if it's not there and run
 1. ./Raytracing
 2. You'll see an image "binary.ppm" to see the result of the ray tracing.
 
-Codes for this HW are mostly provided by Games 101 teaching team. 
