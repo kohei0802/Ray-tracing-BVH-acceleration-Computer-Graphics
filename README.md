@@ -1,6 +1,7 @@
 # Ray-tracing acceleration with BVH - Computer Graphics
 My solution to Games101 exercise 6
 
+
 # My main tasks
 1. Implement BVH (bounding volume hierarchy), a kind of spatial partition methods that allow more efficient detection between ray and object. 
 2. Implement logic to check whether the ray is intersecting with the AABB (axis aligned bounding box).
