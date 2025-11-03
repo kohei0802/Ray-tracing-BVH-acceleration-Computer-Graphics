@@ -122,7 +122,7 @@ Vector3f Scene::castRay(const Ray &ray, int depth) const
                     auto area_ptr = dynamic_cast<AreaLight*>(this->get_lights()[i].get());
                     if (area_ptr)
                     {
-                        // Do nothing for this assignment
+                        //
                     }
                     else
                     {

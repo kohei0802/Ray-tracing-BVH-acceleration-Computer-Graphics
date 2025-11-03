@@ -8,7 +8,7 @@ struct Ray{
     Vector3f direction, direction_inv;
     //transportation time so far
     double t;
-    // probably about the box?
+    // about the box
     double t_min, t_max;
 
     Ray(const Vector3f& ori, const Vector3f& dir, const double _t = 0.0): origin(ori), direction(dir),t(_t) {
